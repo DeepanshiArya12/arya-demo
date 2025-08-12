@@ -1,4 +1,5 @@
 # arya-demo
 This is my first Git Repository.
 <br>
-Author-Deepanshi Arya
+Author-Deepanshi (Apna College)
+
